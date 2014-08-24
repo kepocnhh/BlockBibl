@@ -1,0 +1,1 @@
+package stan.block.note;public class Element //Блоки и записи (или другие элементы блокнота)	extends BlockBase{//Поля    public String name; //имя которое будет использоваться пользователем    public String pict; //ссылка на значёк//Методы//Конструкторы}

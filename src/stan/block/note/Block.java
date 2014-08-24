@@ -1,0 +1,1 @@
+package stan.block.note;public class Block //Блок записей	extends Element{//Поля    public Element[] elements; //элементы блока//Методы    public void add_element(Element e)    {		    }    public void rem_element()    {		    }//Конструкторы	public    public Block(String s)    {        name=s;    }}

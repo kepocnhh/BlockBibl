@@ -1,0 +1,1 @@
+package stan.block.note;public class Part //Элементы записи	extends BlockBase{//Поля    String tab; //степень табуляции    String text; //текст    String tag; //особые пометки    String check; //чекбокс    int vallist; //значение в списке    TypeList TL; //тип списка    static enum TypeList    {        num, mark;    }//Методы//Конструкторы}
